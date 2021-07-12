@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576357577 source:c:\users\dell\desktop\mark.1 computer\linear algebra\projects\liners algebra project\linear algebra project\main.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
